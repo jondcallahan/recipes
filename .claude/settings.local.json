@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:cookswithsoul.com)",
+      "WebFetch(domain:pitmaster.amazingribs.com)",
+      "WebFetch(domain:amazingribs.com)"
+    ],
+    "deny": []
+  }
+}
