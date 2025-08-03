@@ -48,6 +48,14 @@
 * 135°F for 12 hours, then sear on grill
 * Ultimate precision method
 
+## Cook Log
+
+### August 1, 2025
+* Used Pappy's Maverick rub
+* Started at 5pm, 220°F for 1 hour to 140°F internal
+* Seared to 145°F, hit 152°F with carryover
+* Tasted great, not sure what would do different
+
 **Notes**: 
 * Coppa has great marbling - won't dry out like lean chops
 * Thickness determines method: 1.5"+ = reverse sear, <1" = hot & fast
