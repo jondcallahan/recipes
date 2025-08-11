@@ -11,3 +11,10 @@
 * Rest 5 minutes before serving
 
 **Results:** Delicious! Reverse sear method worked perfectly for juicy chicken breast.
+
+### August 10, 2025
+* Used same recipe as August 3rd
+* Added wood chips to the coals
+* Same reverse sear method
+
+**Results:** Not good. Wood chips made it too smoky with bad flavor. Would NOT recommend adding wood chips to chicken breast.
