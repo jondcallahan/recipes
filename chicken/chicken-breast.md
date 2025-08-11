@@ -5,10 +5,10 @@
 ### August 3, 2025
 * Seasoned with kosher salt, black pepper, and garlic powder 15 minutes before (salted in fridge while lighting grill)
 * Put on grill at 5:30pm on cool side of weber kettle with slow and sear insert
-* Target: 225-250°F until internal temp hits 155-160°F
+* Target: 225-250°F until internal temp hits 153°F
 * Combustion set to 153°F (SafeCook starts at 135°F but prefer higher temp for better texture)
-* Then sear on hot side 2-3 minutes per side to 165°F
-* Rest 5 minutes before serving
+* Then sear on hot side 2-3 minutes per side to 158°F - carry over took it up to ~160º
+* Rested 5 minutes before slicing and serving
 
 **Results:** Delicious! Reverse sear method worked perfectly for juicy chicken breast.
 
