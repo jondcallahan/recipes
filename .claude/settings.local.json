@@ -3,8 +3,10 @@
     "allow": [
       "WebFetch(domain:cookswithsoul.com)",
       "WebFetch(domain:pitmaster.amazingribs.com)",
-      "WebFetch(domain:amazingribs.com)"
+      "WebFetch(domain:amazingribs.com)",
+      "WebSearch"
     ],
     "deny": []
-  }
+  },
+  "outputStyle": "recipe-collection"
 }
